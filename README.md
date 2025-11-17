@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://raw.githubusercontent.com/trinib/trinib/main/.images/marquee.svg" width="100%" alt="Rifah Sanzida Tech Banner"/>
+</div>
+
 <h1 align="center">Hi there 👋, I'm Rifah Sanzida</h1>
 <h3 align="center">Computer Science & Engineering Student | Full-Stack Developer | Data Science Enthusiast</h3>
 
