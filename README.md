@@ -64,79 +64,16 @@ Computer Science and Engineering student at American International University-Ba
 
 ---
 
-## 💼 Professional Experience
-
-### **Software Developer Intern**
-**DataSoft Systems Bangladesh Limited** | *Dhaka* 
-
-- Developed full-stack web applications using **Laravel 12** and **CodeIgniter 3**
-- Designed and optimized **MySQL database schemas** with proper relationships
-- Implemented **Role-Based Access Control (RBAC)** for enhanced security
-- Created responsive UIs using **AdminLTE** and **Bootstrap** frameworks
-- Collaborated in **agile environment** using Git version control
-
-### **AI Engineer**
-**Outlier** | *Remote (USA)* 
-
-- Gained hands-on experience with **AI workflow development**
-- Contributed to **AI-powered applications** and deployment pipelines
-- Worked on remote AI project development and implementation
-
----
-
-## 🚀 Featured Projects
-
-### **Social Media Toxicity Analysis**
-`R` `Data Science` `Web Scraping` `Topic Modeling`
-- Performed comprehensive web scraping from multiple social media platforms
-- Implemented data preprocessing pipelines and document term matrix (DTM) analysis
-- Conducted topic modeling to analyze toxicity and cancel culture patterns
-
-### **Caesarian Section Classification**
-`R` `Healthcare Analytics` `Statistical Analysis`
-- Performed statistical data preparation and exploratory analysis
-- Worked with health-related classification dataset for predictive modeling
-- Conducted comprehensive data exploration and visualization
-
-### **Online Laundry Service System**
-`PHP` `JavaScript` `HTML` `CSS` `MySQL`
-- Developed complete web-based laundry service management system
-- Implemented user authentication and order management functionality
-- Designed responsive frontend interfaces and backend logic
-
-### **Online Pet Shop Management**
-`Jira` `SRS` `Prototyping`
-- Collaborated on Software Requirements Specification (SRS) document
-- Participated in requirement gathering and analysis sessions
-- Developed prototype for e-commerce pet shop application
-
----
-
-## 🏆 Leadership & Activities
-
-### **Campus Leader - EduLinking**
-*2024-2025*
-- 🏆 **Awarded "Best Campus Ambassador"** for outstanding performance
-- Spearheaded campus outreach initiatives and educational events
-- Led a team of student ambassadors to increase platform engagement
-
-### **AIUB Computer Club (ACC)**
-*General Member | 2023-2025*
-- Volunteered at **International Conference on Computer and Applications (ICCA) 2024**
-- Contributed to organizing **CS Fest 2024** technical competition
-- Participated in technical workshops and seminars
-
----
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RifahSanzida&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RifahSanzida&theme=radical&hide_border=true&layout=compact&langs_count=8" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rifah22&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rifah22&theme=radical&hide_border=true&layout=compact&langs_count=8" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RifahSanzida&theme=radical&hide_border=true" alt="RifahSanzida" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rifah22&theme=radical&hide_border=true" alt="RifahSanzida" />
 </p>
 
 ---
