@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/trinib/trinib/main/.images/marquee.svg" width="100%" alt="Rifah Sanzida Tech Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Rifah%20Sanzida&fontSize=60&fontAlignY=35&animation=fadeIn" alt="Header" />
 </div>
 
 <h1 align="center">Hi there 👋, I'm Rifah Sanzida</h1>
