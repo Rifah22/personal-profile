@@ -64,7 +64,6 @@ Computer Science and Engineering student at American International University-Ba
 
 ---
 
-
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -73,7 +72,7 @@ Computer Science and Engineering student at American International University-Ba
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rifah22&theme=radical&hide_border=true" alt="RifahSanzida" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rifah22&theme=radical&hide_border=true" alt="Rifah22" />
 </p>
 
 ---
