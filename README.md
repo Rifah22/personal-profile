@@ -1,5 +1,6 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Rifah%20Sanzida&fontSize=60&fontAlignY=35&animation=fadeIn" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:a82be2,50:00ff00,100:ff0000&height=200&section=header&text=Rifah%20Sanzida&fontSize=60&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Data%20Science%20Enthusiast&descSize=20&descAlignY=55&animation=scaleIn" alt="Header" />
+  
 </div>
 
 <h1 align="center">Hi there 👋, I'm Rifah Sanzida</h1>
