@@ -11,7 +11,7 @@
   <a href="mailto:rifahsanzida512@gmail.com">
     <img src="https://img.shields.io/badge/Email-rifahsanzida512@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/rifah-sanzida/">
+  <a href="https://www.linkedin.com/in/rifah-sanzida-b58141290/">
     <img src="https://img.shields.io/badge/LinkedIn-Rifah_Sanzida-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/Rifah22">
@@ -79,7 +79,7 @@ Computer Science and Engineering student at American International University-Ba
 ## 📫 Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/rifah-sanzida/">
+  <a href="https://www.linkedin.com/in/rifah-sanzida-b58141290/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:rifahsanzida512@gmail.com">
