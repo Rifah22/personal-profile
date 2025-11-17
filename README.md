@@ -28,7 +28,6 @@ Computer Science and Engineering student at American International University-Ba
 - 🔭 Currently pursuing **B.Sc. in Computer Science and Engineering**
 - 🌱 Learning **Advanced Machine Learning** and **Enterprise Web Development**
 - 💼 Open to **Software Developer** and **AI Engineer** roles
-- 📍 Based in **Dhaka, Bangladesh**
 
 ---
 
