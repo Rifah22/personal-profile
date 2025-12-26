@@ -73,12 +73,38 @@ Computer Science and Engineering student at American International University-Ba
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rifah22&show_icons=true&theme=radical&hide_border=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rifah22&theme=radical&hide_border=true&layout=compact&langs_count=8" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rifah22&show_icons=true&theme=radical&hide_border=true&count_private=true&cache_seconds=86400" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rifah22&theme=radical&hide_border=true" alt="Rifah22" />
 </p>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  
+  <!-- GitHub Stats -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rifah22&show_icons=true&theme=radical&hide_border=true&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged" />
+  
+  <!-- Most Used Languages -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rifah22&theme=radical&hide_border=true&layout=compact&langs_count=8&exclude_repo=github-readme-stats" />
+  
+  <!-- Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rifah22&theme=radical&hide_border=true&fire=DD2727&currStreakNum=DD2727" alt="GitHub Streak" />
+  
+</div>
+
+<div align="center">
+  
+  <!-- GitHub Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rifah22&theme=radical&area=true&hide_border=true&custom_title=My%20Contribution%20Graph" alt="Activity Graph" />
+  
+  <!-- Trophy Stats -->
+  <img src="https://github-profile-trophy.vercel.app/?username=Rifah22&theme=radical&no-frame=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+  
+</div>
 
 ---
 
@@ -93,6 +119,6 @@ Computer Science and Engineering student at American International University-Ba
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=RifahSanzida&label=Profile%20Views&color=0e75b6&style=flat" alt="RifahSanzida" /> 
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=Rifah22&label=Profile%20Views&color=0e75b6&style=flat" alt="Rifah22" />
 </p>
