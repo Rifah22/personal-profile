@@ -76,7 +76,7 @@ Computer Science and Engineering student at American International University-Ba
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Rifah22&theme=radical&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=Rifah22" alt="Rifah22" />
 </p>
 
 ---
