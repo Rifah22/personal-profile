@@ -75,10 +75,6 @@ Computer Science and Engineering student at American International University-Ba
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Rifah22&theme=radical&hide_border=true&layout=compact&langs_count=8" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Rifah22" alt="Rifah22" />
-</p>
-
 ---
 
 ## 📫 Let's Connect
