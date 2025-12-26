@@ -71,25 +71,12 @@ Computer Science and Engineering student at American International University-Ba
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rifah22&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rifah22&theme=radical&hide_border=true&layout=compact&langs_count=8" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rifah22&theme=radical&hide_border=true" alt="Rifah22" />
-</p>
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <!-- Use alternative domain -->
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Rifah22&show_icons=true&theme=radical&hide_border=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Rifah22&theme=radical&hide_border=true&layout=compact&langs_count=8" />
 </p>
 
 <p align="center">
-  <!-- Use gitify-app domain for streak stats -->
-  <img src="https://streak-stats.demolab.com/?user=Rifah22&theme=radical&hide_border=true" alt="Rifah22" />
+  <img src="https://streak-stats.demolab.com/?user=Rifah22&theme=radical&hide_border=true" />
 </p>
 
 ---
