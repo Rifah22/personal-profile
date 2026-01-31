@@ -4,7 +4,7 @@
 </div>
 
 <h1 align="center">Hi there 👋, I'm Rifah Sanzida</h1>
-<h3 align="center">Computer Science & Engineering Student | Full-Stack Developer | Data Science Enthusiast</h3>
+<h3 align="center">Computer Science & Engineering Student | Aspiring Data Analyst | Data Science & Machine Learning Enthusiast</h3>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -32,7 +32,7 @@ Computer Science and Engineering student at American International University-Ba
 
 - 🔭 Currently pursuing **B.Sc. in Computer Science and Engineering**
 - 🌱 Learning **Advanced Machine Learning** and **Enterprise Web Development**
-- 💼 Open to **Software Developer** and **AI Engineer** roles
+- 💼 Open to **Data Analyst** and **AI Engineer** roles
 
 ---
 
