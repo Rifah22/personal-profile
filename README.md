@@ -1,74 +1,83 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:a82be2,50:00ff00,100:ff0000&height=200&section=header&text=Rifah%20Sanzida&fontSize=60&fontAlignY=35&desc=Data%20Analyst%20%7C%20Data%20Science%20Enthusiast&descSize=20&descAlignY=55&animation=scaleIn" alt="Header" />
-  
-</div>
-
-<h1 align="center">Hi there 👋, I'm Rifah Sanzida</h1>
-<h3 align="center">Computer Science & Engineering Student | Aspiring Data Analyst | Data Science & Machine Learning Enthusiast</h3>
+<h1 align="center">Hi there, I'm Rifah Sanzida 👋</h1>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22F74E&center=true&vCenter=true&width=435&lines=Data+Science+Enthusiast;AI+Engineer;Problem+Solver" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=CS+Student+%7C+Full+Stack+Developer;R+%7C+PHP+%7C+C%2B%2B+%7C+Machine+Learning;Always+Learning+New+Technologies!" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <a href="mailto:rifahsanzida512@gmail.com">
-    <img src="https://img.shields.io/badge/Email-rifahsanzida512@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
   <a href="https://www.linkedin.com/in/rifah-sanzida-b58141290/">
-    <img src="https://img.shields.io/badge/LinkedIn-Rifah_Sanzida-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/Rifah22">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 ---
 
-## 🎓 About Me
+## 👩‍💻 About Me
 
-Computer Science and Engineering student at American International University-Bangladesh with a strong academic record and expertise in both data science and full-stack web development. Passionate about creating robust software solutions and leveraging data-driven insights to solve complex problems.
-
-- 🔭 Currently pursuing **B.Sc. in Computer Science and Engineering**
-- 🌱 Learning **Advanced Machine Learning** and **Enterprise Web Development**
-- 💼 Open to **Data Analyst** and **AI Engineer** roles
+- 🎓 Computer Science student passionate about building meaningful software
+- 💡 Interested in **Web Development**, **Data Analysis**, **Machine Learning**, and **Computer Graphics**
+- 🌱 Currently learning new technologies and expanding my skill set
+- 🤝 Open to collaboration on interesting projects
+- 📍 Based in Bangladesh
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠️ Tech Stack
 
-### **Programming Languages**
+### Languages
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### **Frameworks & Technologies**
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+### Frameworks & Tools
 ![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![AdminLTE](https://img.shields.io/badge/AdminLTE-3670A0?style=for-the-badge&logo=adminlte&logoColor=white)
-
-### **Data Science & ML**
-![Data Analysis](https://img.shields.io/badge/Data_Analysis-2E8B57?style=for-the-badge&logo=pandas&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6B6B?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Topic Modeling](https://img.shields.io/badge/Topic_Modeling-8E44AD?style=for-the-badge)
-![Data Visualization](https://img.shields.io/badge/Data_Visualization-3498DB?style=for-the-badge&logo=plotly&logoColor=white)
-
-### **Databases & Tools**
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![OpenGL](https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description | Tech | Live |
+|--------|-------------|------|------|
+| [🌐 Online Laundry Service](https://github.com/Rifah22/Online-Laundry-Service) | Full-featured web app for online laundry order management with admin, customer & delivery roles | PHP, MySQL, JS, CSS | — |
+| [🎮 Dawn of Victory – 1971](https://github.com/Rifah22/Dawn-of-Victory-The-1971-Liberation-War) | Interactive 3D computer graphics simulation of the Bangladesh Liberation War | C++, OpenGL | — |
+| [📊 Toxicity & Cancel Culture Analysis](https://github.com/Rifah22/Analyzing-Toxicity-and-Cancel-Culture-in-Social-Media-) | Social media analysis using web scraping and LDA topic modeling | R | — |
+| [🐾 Online Pet Shop Management](https://github.com/Rifah22/Online-Pet-Shop-Management) | Software engineering project for pet shop management system | HTML, PHP | — |
+| [📦 Inventory Management System](https://github.com/Rifah22/Inventory-Management-System) | Stock and inventory tracking system built with CodeIgniter 3 | CodeIgniter, PHP | — |
+| [🏥 Caesarian Section Classification](https://github.com/Rifah22/Caesarian-Section-Classification-Dataset) | ML classification model for medical dataset prediction | R | — |
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Rifah22&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Rifah22&theme=radical&hide_border=true&layout=compact&langs_count=8" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Rifah22&show_icons=true&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rifah22&layout=compact&theme=radical&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rifah22&theme=radical&hide_border=true" width="60%" />
+</p>
+
+---
+
+## 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Rifah22&theme=radical&no-frame=true&row=1&column=6" />
 </p>
 
 ---
@@ -76,14 +85,10 @@ Computer Science and Engineering student at American International University-Ba
 ## 📫 Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/rifah-sanzida-b58141290/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:rifahsanzida512@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+  I'm always open to interesting conversations, collaborations, and opportunities.<br>
+  Feel free to reach out on <a href="https://www.linkedin.com/in/rifah-sanzida-b58141290/">LinkedIn</a> or drop me an email!
 </p>
 
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=Rifah22&label=Profile%20Views&color=0e75b6&style=flat" alt="Rifah22" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Rifah22&color=F75C7E&style=for-the-badge" alt="Profile Views" />
 </p>
