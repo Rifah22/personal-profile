@@ -1,117 +1,146 @@
-<h1 align="center">Rifah Sanzida</h1>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:2563eb,100:06b6d4&height=220&section=header&text=Rifah%20Sanzida&fontSize=55&fontColor=ffffff&fontAlignY=35&desc=Application%20Analyst%20%7C%20FinTech%20Systems%20%7C%20QA%20%26%20AI&descSize=20&descAlignY=55" />
+</div>
+
+<h1 align="center">Hi 👋, I'm Rifah Sanzida</h1>
+
+<h3 align="center">
+Application Analyst | FinTech Systems (Treasury) | QA & AI Enthusiast | Full Stack Learner
+</h3>
 
 <p align="center">
-  <strong>
-    Application Analyst • FinTech Systems (Treasury) • QA & AI Enthusiast • Full Stack Learner
-  </strong>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2563EB&center=true&vCenter=true&width=700&lines=FinTech+Application+Analyst;QA+%26+Software+Testing+Enthusiast;AI-Assisted+Development+Workflows;Full+Stack+Development+Learner;Enterprise+Systems+%26+Problem+Solving" />
 </p>
 
 <p align="center">
-  Dhaka, Bangladesh
+  <a href="mailto:rifahsanzida512@gmail.com">
+    <img src="https://img.shields.io/badge/Email-rifahsanzida512%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/rifah-sanzida-b58141290/">
+    <img src="https://img.shields.io/badge/LinkedIn-Rifah%20Sanzida-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="https://github.com/Rifah22">
+    <img src="https://img.shields.io/badge/GitHub-Rifah22-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-## 👋 About Me
+# 👋 About Me
 
-I am a Computer Science & Engineering graduate currently working as an **Application Analyst** in a FinTech environment, contributing to a live **Treasury Management System** covering **Money Market, FX, and Securities** modules.
+I am a Computer Science & Engineering graduate currently working as an **Application Analyst** in a FinTech environment, contributing to a live **Treasury Management System** covering:
 
-My work involves business requirement analysis, enterprise system support, workflow validation, and ensuring functional accuracy in production-grade financial software.
+- Money Market
+- FX (Foreign Exchange)
+- Securities
 
-I am passionate about:
-- Software Quality Assurance
-- Enterprise Financial Systems
-- AI-assisted Development Workflows
-- Full Stack Engineering
-- System Design & Problem Solving
+My work focuses on:
+- Business Requirement Analysis (BRD)
+- Enterprise System Support
+- Functional Validation
+- QA & Testing Workflows
+- AI-assisted Development
 
-I continuously focus on improving my technical and analytical skills through hands-on development, enterprise system exposure, and practical learning.
-
----
-
-## 💼 Professional Experience
-
-### **Application Analyst — FinTech (Treasury Systems)**
-**Data Edge Limited** • Jan 2026 – Present
-
-- Working on a live Treasury Management System covering Money Market, FX, and Securities modules
-- Performing BRD analysis and functional requirement validation
-- Supporting enterprise workflow design and system functionality
-- Working in enterprise Linux (RHEL) environments
-- Using AI-assisted development workflows with tools like Cursor and Claude
+I am passionate about enterprise applications, financial systems, software quality assurance, and modern development workflows.
 
 ---
 
-### **Software Developer Intern**
-**DataSoft Systems Bangladesh Limited** • Aug 2025 – Dec 2025
+# 💼 Professional Experience
 
-- Built a complete Inventory Management System using CodeIgniter (PHP)
-- Worked on a live Issue Tracking System (RIGS)
-- Debugged application issues and optimized SQL queries
-- Contributed within a production-oriented development environment
+## 🏦 Application Analyst — FinTech (Treasury Systems)
 
----
-
-### **AI Data Trainer**
-**Outlier** • Nov 2024 – Feb 2025
-
-- Evaluated AI-generated outputs for reasoning quality and accuracy
-- Provided structured feedback for LLM training workflows
-- Worked with JSON-based evaluation and annotation tasks
+- Working on live Treasury Management System modules
+- Supporting Money Market, FX, and Securities operations
+- Requirement analysis & workflow validation
+- Enterprise Linux (RHEL) environment exposure
+- AI-assisted development using Cursor & Claude
 
 ---
 
-## 🛠️ Technical Skills
+## 💻 Software Developer Intern — DataSoft Systems Bangladesh
 
-### Languages
-- Python
-- JavaScript
-- SQL
-- C++
+- Built Inventory Management System using CodeIgniter (PHP)
+- Worked on live Issue Tracking System (RIGS)
+- Debugged applications and optimized SQL queries
+- Worked in production-oriented development environment
 
-### Frameworks & Technologies
-- Django
-- React
-- CodeIgniter
-- REST API
-- Postman
-- Git & GitHub
-- Linux (RHEL)
-- Jira
+---
 
-### Core Areas
+## 🤖 AI Data Trainer — Outlier
+
+- Evaluated AI-generated outputs and reasoning quality
+- Provided structured feedback for LLM training
+- Worked with JSON-based annotation workflows
+
+---
+
+# 🛠️ Tech Stack
+
+### 💻 Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,js,cpp,php,mysql" />
+</p>
+
+---
+
+### ⚙️ Frameworks & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=django,react,git,github,linux,postman" />
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
+<img src="https://img.shields.io/badge/RHEL-EE0000?style=for-the-badge&logo=redhat&logoColor=white"/>
+</p>
+
+---
+
+# 🧠 Focus Areas
+
 - FinTech Systems
+- Treasury Management
 - Application Analysis & Support
 - QA & Software Testing
 - API Testing & Validation
-- Business Requirement Analysis (BRD)
 - AI-assisted Development
+- Full Stack Development
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
-### Treasury Management System
-Enterprise-level Treasury solution covering:
+## 💼 Treasury Management System
+Enterprise-level Treasury workflow covering:
 - Money Market
 - FX Operations
-- Securities Workflow
+- Securities
 
-### E-Commerce Management System
+---
+
+## 🛒 E-Commerce Management System
 Full-stack application with:
-- Product management
 - Authentication
-- Database integration
-- CRUD operations
+- CRUD Operations
+- Database Integration
+- Admin Panel
 
-### Inventory Management System
+---
+
+## 📦 Inventory Management System
 Developed using:
 - PHP
 - CodeIgniter
 - MySQL
 - AdminLTE
 
-### AI & Data Analysis Projects
+---
+
+## 🤖 AI & Data Analysis Projects
 - Toxicity & Cancel Culture Analysis
 - Topic Modeling
 - Data Visualization
@@ -119,19 +148,33 @@ Developed using:
 
 ---
 
-## 📈 GitHub Profile
+# 📊 GitHub Profile
 
-- Active contributor to software and learning projects
-- Focused on enterprise systems, QA workflows, and full stack development
-- Continuously building practical engineering and problem-solving skills
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rifah22&theme=github_dark" />
+</p>
 
 ---
 
-## 📫 Contact
+# 📫 Connect With Me
 
-- **Email:** rifahsanzida512@gmail.com
-- **LinkedIn:** linkedin.com/in/rifah-sanzida-b58141290
-- **GitHub:** github.com/Rifah22
+<p align="center">
+  <a href="mailto:rifahsanzida512@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/rifah-sanzida-b58141290/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="https://github.com/Rifah22">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Rifah22&label=Profile%20Views&color=2563EB&style=flat" />
+</p>
 
 ---
 
