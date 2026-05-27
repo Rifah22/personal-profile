@@ -21,9 +21,6 @@ Application Analyst | FinTech Systems (Treasury) | QA & AI Enthusiast | Full Sta
     <img src="https://img.shields.io/badge/LinkedIn-Rifah%20Sanzida-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
-  <a href="https://github.com/Rifah22">
-    <img src="https://img.shields.io/badge/GitHub-Rifah22-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
 </p>
 
 ---
