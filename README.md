@@ -1,66 +1,101 @@
-<h1 align="center">Rifah Sanzida</h1>
+<h1 align="center">Hi 👋, I'm Rifah Sanzida</h1>
+
+<h3 align="center">
+Application Analyst | FinTech Systems (Treasury) | QA & AI Enthusiast | Full Stack Learner
+</h3>
 
 <p align="center">
-Application Analyst | FinTech Systems (Treasury) | QA & AI Enthusiast | Full Stack Learner
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2563EB&center=true&vCenter=true&width=700&lines=FinTech+Application+Analyst;QA+%26+Software+Testing+Enthusiast;AI-Assisted+Development+Workflows;Full+Stack+Development+Learner;Enterprise+Systems+%26+Problem+Solving" />
+</p>
+
+<p align="center">
+  <a href="mailto:rifahsanzida512@gmail.com">
+    <img src="https://img.shields.io/badge/Email-rifahsanzida512%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/rifah-sanzida-b58141290/">
+    <img src="https://img.shields.io/badge/LinkedIn-Rifah%20Sanzida-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
 </p>
 
 ---
 
-## 👋 About Me
+# 👋 About Me
 
-Computer Science & Engineering graduate working as an **Application Analyst at Data Edge Limited** in a FinTech Treasury environment.
+I am a Computer Science & Engineering graduate currently working as an **Application Analyst** in a FinTech environment, contributing to a live **Treasury Management System** covering:
 
-I work on enterprise financial systems covering **Money Market, FX, and Securities**, focusing on requirement analysis, system validation, and workflow support.
+- Money Market
+- FX (Foreign Exchange)
+- Securities
 
-I am interested in **QA, enterprise systems, and AI-assisted development**, and I am actively improving my full-stack engineering skills.
-
----
-
-## 💼 Experience
-
-### 🏦 Application Analyst — Data Edge Limited
-- Treasury Management System (Money Market, FX, Securities)
-- BRD analysis & requirement validation
-- Enterprise system support & workflow testing
-- Linux (RHEL) environment exposure
-- AI-assisted development (Cursor, Claude)
-
-### 💻 Software Developer Intern — DataSoft Systems Bangladesh
-- Inventory Management System (CodeIgniter, PHP)
-- Issue Tracking System (RIGS)
-- SQL debugging & optimization
-- Production-style development environment
-
-### 🤖 AI Data Trainer — Outlier
-- Evaluated AI-generated responses
-- Quality & reasoning assessment
-- JSON-based annotation tasks
-
----
-
-## 🛠️ Skills
-
-**Languages:** Python, JavaScript, SQL, C++  
-**Tools:** Git, GitHub, Postman, Jira, Linux  
-**Frameworks:** Django, React, CodeIgniter  
-
-**Focus Areas:**
-- FinTech Systems
-- QA & Testing
-- API Validation
-- Business Analysis (BRD)
+My work focuses on:
+- Business Requirement Analysis (BRD)
+- Enterprise System Support
+- Functional Validation
+- QA & Testing Workflows
 - AI-assisted Development
 
+I am passionate about enterprise applications, financial systems, software quality assurance, and modern development workflows.
+
 ---
 
-## 📫 Contact
+# 🛠️ Tech Stack
 
-- Email: rifahsanzida512@gmail.com  
-- LinkedIn: linkedin.com/in/rifah-sanzida-b58141290  
-- GitHub: github.com/Rifah22  
+### 💻 Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,js,cpp,php,mysql" />
+</p>
+
+---
+
+### ⚙️ Frameworks & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=django,react,git,github,linux,postman" />
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
+<img src="https://img.shields.io/badge/RHEL-EE0000?style=for-the-badge&logo=redhat&logoColor=white"/>
+</p>
+
+---
+
+# 📊 GitHub Profile
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rifah22&theme=github_dark" />
+</p>
+
+---
+
+# 📫 Connect With Me
+
+<p align="center">
+  <a href="mailto:rifahsanzida512@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/rifah-sanzida-b58141290/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="https://github.com/Rifah22">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Rifah22&label=Profile%20Views&color=2563EB&style=flat" />
+</p>
 
 ---
 
 <p align="center">
-Focused on FinTech systems, QA engineering, enterprise applications, and AI-assisted development.
+  <i>
+    Focused on FinTech systems, QA engineering, enterprise applications, and AI-assisted software development.
+  </i>
 </p>
