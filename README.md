@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:2563eb,100:06b6d4&height=220&section=header&text=Rifah%20Sanzida&fontSize=55&fontColor=ffffff&fontAlignY=35&desc=Application%20Analyst%20%7C%20FinTech%20Systems%20%7C%20QA%20%26%20AI&descSize=20&descAlignY=55" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:2563eb,100:06b6d4&height=220&section=header&text=Rifah%20Sanzida&fontSize=55&fontColor=ffffff&fontAlignY=35&desc=Application%20Analyst%20%7C%20FinTech%20Systems%20%7C%20QA%20and%20AI&descSize=20&descAlignY=55" />
 </div>
 
 <h1 align="center">Hi 👋, I'm Rifah Sanzida</h1>
