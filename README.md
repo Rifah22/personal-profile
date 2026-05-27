@@ -46,7 +46,7 @@ I am passionate about enterprise applications, financial systems, software quali
 
 # 💼 Professional Experience
 
-## 🏦 Application Analyst — FinTech (Treasury Systems)
+## 🏦 Application Analyst — Data Edge Limited
 
 - Working on live Treasury Management System modules
 - Supporting Money Market, FX, and Securities operations
